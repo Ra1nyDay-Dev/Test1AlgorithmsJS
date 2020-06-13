@@ -1,1 +1,1 @@
-# Test1AlgorithmsJS
+# Тест 1 - Алгоритмы (JavaScript)
